@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "mint": "4.2.186",
-    "sharp": "^0.33.3"
+    "mint": "4.2.942",
+    "sharp": "^0.35.4"
   },
   "scripts": {
     "dev": "npx mint dev"
